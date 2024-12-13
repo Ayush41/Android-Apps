@@ -17,3 +17,5 @@ To run any of the projects in this repository, follow these steps:
     ```
 2. Open the project in Android Studio.
 3. Build and run the project on an emulator or a physical device.
+
+## CONTRIBUTE
